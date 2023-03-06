@@ -1,0 +1,75 @@
+﻿  InitShader.cpp
+  main.cpp
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(129,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(134,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(135,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(177,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(177,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(177,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(177,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(253,35): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(257,38): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(257,63): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(272,55): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(275,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(275,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(283,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(306,56): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(309,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(309,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(318,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(323,56): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(326,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(326,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(344,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(348,114): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(367,34): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(377,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(382,56): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(443,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(448,54): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(455,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(455,106): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(455,116): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(461,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(461,107): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(461,119): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(468,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(468,105): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(468,117): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(474,55): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(474,106): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(474,118): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(484,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(484,103): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(489,56): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(497,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(497,109): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(497,121): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(503,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(503,110): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(503,122): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(510,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(510,108): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(510,120): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(516,57): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(516,109): warning C4305: 'argument': truncation from 'double' to 'const GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(516,121): warning C4244: 'argument': conversion from 'int' to 'const GLfloat', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(668,22): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(669,27): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(677,22): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(678,27): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(696,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(702,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(709,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(715,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(722,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(728,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(735,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(741,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(771,12): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(776,12): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(812,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\OpenGL\main.cpp(815,11): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  OpenGL.vcxproj -> C:\Users\PC\Desktop\BenCang\Nhom_4\Nhom_4\Debug\OpenGL.exe
